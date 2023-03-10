@@ -11,7 +11,7 @@
 - 💬 Ask me about `anything!`
 - ⚡ Fun fact: `I'm a huge Star Wars fan` <img src = "https://w7.pngwing.com/pngs/612/697/png-transparent-darth-sidious-robot-starwars-villain-famous-character-colored-icon.png" height = "25px"/>
 <hr>
-Skills & Technologies(Still learning): <br/>
+Skills & Technologies(Still learning):
 <img src = "https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" height="25px"/>
 <img src = "https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" height="25px"/>
 <img src = "https://img.shields.io/badge/VSCode-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" height="25px"/>
