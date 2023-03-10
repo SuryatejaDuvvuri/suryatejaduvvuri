@@ -5,6 +5,14 @@
 ![Suryateja's GitHub stats](https://github-readme-stats.vercel.app/api?username=suryatejaduvvuri&hide=contribs,prs)
 
  <br/>
+ 
+ - 😄 Pronouns: `he/him`
+ 🔭 I’m currently working on ``
+- 🌱 I’m currently learning `C++`
+- 👯 I’m looking to collaborate on `Machine Learning/App Development projects`
+- 🤔 I’m looking for help with ``
+- 💬 Ask me about `anything!`
+- ⚡ Fun fact: `I'm a huge Star Wars fan` <img src = "https://w7.pngwing.com/pngs/612/697/png-transparent-darth-sidious-robot-starwars-villain-famous-character-colored-icon.png" height = "25px"/>
 
 Skills & Technologies(Still learning):
 <img src = "https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" height="25px"/>
