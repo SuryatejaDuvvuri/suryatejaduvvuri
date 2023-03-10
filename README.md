@@ -10,7 +10,7 @@
  🔭 I’m currently working on ``
 - 🌱 I’m currently learning `C++`
 - 👯 I’m looking to collaborate on `Machine Learning/App Development projects`
-- 🤔 I’m looking for help with ``
+- 🤔 I’m looking for help with `Coding practices`
 - 💬 Ask me about `anything!`
 - ⚡ Fun fact: `I'm a huge Star Wars fan` <img src = "https://w7.pngwing.com/pngs/612/697/png-transparent-darth-sidious-robot-starwars-villain-famous-character-colored-icon.png" height = "25px"/>
 
