@@ -4,6 +4,9 @@
 
 ![Suryateja's GitHub stats](https://github-readme-stats.vercel.app/api?username=suryatejaduvvuri&hide=contribs,prs)
 
+Skills & Technologies:
+https://img.shields.io/badge/firebase-ffca28?style=for-the-badge&logo=firebase&logoColor=black
+
 <!--
 **SuryatejaDuvvuri/suryatejaduvvuri** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
