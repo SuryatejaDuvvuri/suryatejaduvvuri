@@ -1,9 +1,6 @@
 ### Hi there 👋
 ### I'm Suryateja, a first year undergraduate studying at the University of California, Riverside. I'm interested to learn different techonlogies and create a long term impact to make better innovation in the future.
 
-
-![Suryateja's GitHub stats](https://github-readme-stats.vercel.app/api?username=suryatejaduvvuri&hide=contribs,prs)
-
  <br/>
  
  - 😄 Pronouns: `he/him`
@@ -53,3 +50,4 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+![Suryateja's GitHub stats](https://github-readme-stats.vercel.app/api?username=suryatejaduvvuri&hide=contribs,prs)
