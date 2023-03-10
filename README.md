@@ -4,7 +4,7 @@
  <br/>
  
  - 😄 Pronouns: `he/him`
- 🔭 I’m currently working on ``
+ 🔭 I’m currently working on `University work/Blog project`
 - 🌱 I’m currently learning `C++`
 - 👯 I’m looking to collaborate on `Machine Learning/App Development projects`
 - 🤔 I’m looking for help with `Coding practices`
