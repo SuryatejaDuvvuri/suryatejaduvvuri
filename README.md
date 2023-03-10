@@ -1,4 +1,8 @@
 ### Hi there 👋
+### I'm Suryateja, a first year undergraduate studying at the University of California, Riverside. I'm interested to learn different techonlogies and create a long term impact to make better innovation in the future.
+
+
+![Suryateja's GitHub stats](https://github-readme-stats.vercel.app/api?username=suryatejaduvvuri&hide=contribs,prs)
 
 <!--
 **SuryatejaDuvvuri/suryatejaduvvuri** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
