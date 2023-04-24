@@ -34,6 +34,9 @@
 <a href = "https://twitter.com/SuryatejaDuvvu1"> <!--Github-->
   <img src = "https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" height = "25px"/>
 </a>
+<a href = "https://calendly.com/suryateja-duvvuri/30min"> <!--Calendly-->
+   <img src = "https://img.shields.io/badge/Zoom-2D8CFF?style=for-the-badge&logo=zoom&logoColor=white" height = "25px"/>
+ </a>
 <!-- <img src = "https://img.shields.io/badge/firebase-ffca28?style=for-the-badge&logo=firebase&logoColor=black"/> -->
 
 <!--
