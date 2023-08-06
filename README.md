@@ -5,7 +5,7 @@
  
  - 😄 Pronouns: `he/him`
  - 🔭 I’m currently working on `University work/Blog project`
- - 🌱 I’m currently learning `C++`
+ - 🌱 I’m currently learning `C++, Swift, Javascript, React, and Python`
  - 👯 I’m looking to collaborate on `Machine Learning/App Development projects`
  - 🤔 I’m looking for help with `Coding practices`
  - 💬 Ask me about `anything!`
