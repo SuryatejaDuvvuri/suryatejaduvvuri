@@ -1,5 +1,5 @@
 ### Hi there 👋
-### I'm Suryateja, a first year undergraduate studying at the University of California, Riverside 🏫. I'm interested to learn different techonlogies and create a long term impact to make better innovation in the future.
+### I'm Suryateja, a second year undergraduate studying at the University of California, Riverside 🏫. I'm interested to learn different techonlogies and create a long term impact to make better innovation in the future.
 
  <br/>
  
