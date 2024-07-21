@@ -4,9 +4,9 @@
  <br/>
  
  - 😄 Pronouns: `he/him`
- - 🔭 I’m currently working on `University work`
- - 🌱 I’m currently learning `Swift and Java`
- - 👯 I’m looking to collaborate on `Machine Learning/App Development projects`
+ - 🔭 I’m currently working on `University work and iOS Project`
+ - 🌱 I’m currently learning `Swift and Java.`
+ - 👯 I’m looking to collaborate on `AI, Backend, and App Development projects`
  - 🤔 I’m looking for help with `Coding practices`
  - 💬 Ask me about `anything!`
  - ⚡ Fun fact: `I'm a huge Star Wars fan` <img src = "https://w7.pngwing.com/pngs/612/697/png-transparent-darth-sidious-robot-starwars-villain-famous-character-colored-icon.png" height = "25px"/>
