@@ -2,7 +2,7 @@
 ### I'm Suryateja, a second year undergraduate studying at the University of California, Riverside 🏫. I'm interested to learn different techonlogies and create a long term impact to make better innovation in the future.
 
  <br/>
- 
+  
  - 😄 Pronouns: `he/him`
  - 🔭 I’m currently working on `University work and iOS Project`
  - 🌱 I’m currently learning `Swift and Java.`
