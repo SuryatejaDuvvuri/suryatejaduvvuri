@@ -1,11 +1,11 @@
 ### Hi there 👋
-### I'm Suryateja, a second year undergraduate studying at the University of California, Riverside 🏫. I'm interested to learn different techonlogies and create a long term impact to make better innovation in the future.
+### I'm Suryateja, an incoming third-year undergraduate studying at the University of California, Riverside 🏫. I'm interested in learning different technologies and creating a long-term impact to make better innovations in the future.
 
  <br/>
   
  - 😄 Pronouns: `he/him`
- - 🔭 I’m currently working on `University work and iOS Project`
- - 🌱 I’m currently learning `Swift and Java.`
+ - 🔭 I’m currently working on `University coursework and Java Project`
+ - 🌱 I’m currently learning `Java Spring Boot.`
  - 👯 I’m looking to collaborate on `AI, Backend, and App Development projects`
  - 🤔 I’m looking for help with `Coding practices`
  - 💬 Ask me about `anything!`
