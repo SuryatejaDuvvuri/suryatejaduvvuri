@@ -9,7 +9,7 @@
  - 👯 I’m looking to collaborate on `AI, Backend, and App Development projects`
  - 🤔 I’m looking for help with `Coding practices`
  - 💬 Ask me about `anything!`
- - ⚡ Fun fact: `I'm a huge Star Wars fan` <img src = "https://w7.pngwing.com/pngs/612/697/png-transparent-darth-sidious-robot-starwars-villain-famous-character-colored-icon.png](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjJbvdZ7lij7-oV8wo_hrHYYl3hHQM6pmnKmelOhj-YAjmbIWXF5F_pChbWbIsV0k5Xqw1HZjTrmFdCspgDKAW2K9j6_C6SC3aOGpyKU6fbV1svF1y1Tz0AEBD8kBxHKbLW9G7EfSwodSzj/s1600/giphy.gif" height = "50px"/>
+ - ⚡ Fun fact: `I'm a huge Star Wars fan` 
  
  
 **Skills & Technologies(Still learning):**
