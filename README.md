@@ -1,3 +1,8 @@
+<img src = "https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif"/>
+
+<br/>
+
+
 ### Hi there 👋
 ### I'm Suryateja, an incoming third-year undergraduate studying at the University of California, Riverside 🏫. I'm interested in learning different technologies and creating a long-term impact to make better innovations in the future.
 
@@ -40,7 +45,7 @@
    <img src = "https://img.shields.io/badge/Zoom-2D8CFF?style=for-the-badge&logo=zoom&logoColor=white" height = "25px"/>
  </a>
 
- <img src = "https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif"/>
+ 
 <!-- <img src = "https://img.shields.io/badge/firebase-ffca28?style=for-the-badge&logo=firebase&logoColor=black"/> -->
 
 <!--
