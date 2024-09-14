@@ -3,7 +3,7 @@
 </br>
 
 
-### Hi there 👋
+## Hi there 👋
 ### I'm Suryateja, an incoming third-year undergraduate studying at the University of California, Riverside 🏫. I'm interested in learning different technologies and creating a long-term impact to make better innovations in the future.
 
  <br/>
