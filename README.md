@@ -4,15 +4,15 @@
 
 
 ## Hi there 👋
-### I'm Suryateja, a fourth-year undergraduate studying at the University of California, Riverside 🏫. I'm interested in learning different technologies and creating a long-term impact to make better innovations in the future.
+### I'm Suryateja, a Master's student studying at the University of California, Riverside 🏫. I'm interested in learning different technologies and creating a long-term impact to make better innovations in the future.
 
  <br/>
   
  - 😄 Pronouns: `he/him`
  - 🔭 I’m currently working on `University coursework`
- - 🌱 I’m currently learning `LLM and Java Spring`
- - 👯 I’m looking to collaborate on `AI, Backend, and App Development projects`
- - 🤔 I’m looking for help with `Coding practices`
+ - 🌱 I’m currently learning `Agentic AI, MCP and LLM`
+ - 👯 I’m looking to collaborate on `Full Stack, AI/ML`
+ - 🤔 I’m looking for help with `Improving or expanding my skillsets`
  - 💬 Ask me about `anything!`
  - ⚡ Fun fact: `I'm a huge Star Wars fan` 
  
