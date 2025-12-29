@@ -62,4 +62,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 ![Suryateja's GitHub stats](https://github-readme-stats.vercel.app/api?username=SuryatejaDuvvuri&show_icons=true&theme=transparent)
-[![Suryateja's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=SuryatejaDuvvuri)](https://github.com/anuraghazra/github-readme-stats)
+[![Suryateja's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=SuryatejaDuvvuri&langs_count=8)](https://github.com/anuraghazra/github-readme-stats)
