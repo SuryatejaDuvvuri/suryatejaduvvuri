@@ -7,12 +7,9 @@
 </p>
 
 <p align="center">
-  <a href="https://linkedin.com/in/yourprofile"><img src="https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white"></a>
+  <a href="https://www.linkedin.com/in/suryateja-duvvuri-22b377162/"><img src="https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white"></a>
   <a href="https://suryatejaduvvuri.vercel.app/"><img src="https://img.shields.io/badge/Website-3b5998?style=flat-square&logo=google-chrome&logoColor=white"></a>
   <a href="https://suryasblog.vercel.app/"><img src="https://img.shields.io/badge/Blog-FFA500?style=flat-square&logo=rss&logoColor=white"></a>
-  <a href="https://twitter.com/yourhandle"><img src="https://img.shields.io/badge/-Twitter-00acee?style=flat-square&logo=Twitter&logoColor=white"></a>
-</p>
-
 <p align="center"> 
   <img src="https://komarev.com/ghpvc/?username=suryatejaduvvuri&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
 </p>
