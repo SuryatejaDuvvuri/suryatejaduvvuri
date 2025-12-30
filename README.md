@@ -1,31 +1,118 @@
-<img src = "https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif"/>
+## Hey there 👋, I'm [Suryateja!](https://github.com/suryatejaduvvuri/)
 
-</br>
-<h1 align="center">Hi 👋, I'm Suryateja</h1>
-<h3 align="center">a Master's student studying at the University of California, Riverside 🏫. I'm interested in learning different technologies and creating a long-term impact to make better innovations in the future.</h3>
-
-- 🔭 I’m currently working on **University coursework**
-
-- 🌱 I’m currently learning **Agentic AI, MCP and LLM**
-
-- 👯 I’m looking to collaborate on **Full Stack, AI/ML**
-
-- 🤝 I’m looking for help with **Improving or expanding my skillsets**
-
-- 👨‍💻 All of my projects are available at [suryatejaduvvuri.vercel.app/](suryatejaduvvuri.vercel.app/)
-
-- 📝 I regularly write articles on [https://suryasblog.vercel.app/](https://suryasblog.vercel.app/)
-
-- 💬 Ask me about **Anything**
-
-- 📫 How to reach me **duvvurisuryateja95@gmail.com**
-
-- ⚡ Fun fact **I am a huge Star Wars fan**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://suryasblog.vercel.app/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/rss.svg" alt="https://suryasblog.vercel.app/" height="30" width="40" /></a>
+<!-- Credit goes to DenverCoder1 and iampavangandhi for this readme inspiration-->
+<p align="center">
+  <a href="https://github.com/DenverCoder1/readme-typing-svg">
+    <img src="https://readme-typing-svg.demolab.com/?lines=Master's+Student+at+UC+Riverside;Full-Stack+Developer;AI/ML+Enthusiast;Always+learning+new+things&font=Fira%20Code&center=true&width=440&height=45&color=f75c7e&vCenter=true&pause=1000&size=22" /></a>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://azure.microsoft.com/en-in/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="azure" width="40" height="40"/> </a> <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> </a> <a href="https://cassandra.apache.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/apache_cassandra/apache_cassandra-icon.svg" alt="cassandra" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://cloud.google.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nextjs.org/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="nextjs" width="40" height="40"/> </a> <a href="https://www.nginx.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg" alt="nginx" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://opencv.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://pytorch.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/> </a> <a href="https://www.qt.io/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/0b/Qt_logo_2016.svg" alt="qt" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> <a href="https://spring.io/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="40" height="40"/> </a> <a href="https://developer.apple.com/swift/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/swift/swift-original.svg" alt="swift" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> </p>
+<p align="center">
+  <a href="https://linkedin.com/in/yourprofile"><img src="https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white"></a>
+  <a href="https://suryatejaduvvuri.vercel.app/"><img src="https://img.shields.io/badge/Website-3b5998?style=flat-square&logo=google-chrome&logoColor=white"></a>
+  <a href="https://suryasblog.vercel.app/"><img src="https://img.shields.io/badge/Blog-FFA500?style=flat-square&logo=rss&logoColor=white"></a>
+  <a href="https://twitter.com/yourhandle"><img src="https://img.shields.io/badge/-Twitter-00acee?style=flat-square&logo=Twitter&logoColor=white"></a>
+</p>
+
+<p align="center"> 
+  <img src="https://komarev.com/ghpvc/?username=suryatejaduvvuri&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
+</p>
+
+---
+
+### Glad to see you here! 
+
+I'm a Master's student in **Computer Science at UC Riverside**, passionate about building  applications and exploring the intersection of AI/ML with real world problems. I enjoy learning new technologies and solving complex challenges through code.
+
+I have experience with full-stack development using **C++, Python, Java, JavaScript, React, Next.js, Django, Spring Boot**, and exposure to cloud technologies like AWS and Azure. I've worked on educational tools, collaborative platforms, and AI/ML projects throughout my academic journey.
+
+I love to learn and solve problems! When I'm not coding, you'll find me writing technical articles on my blog, exploring new frameworks, or diving into the latest AI developments.
+
+Feel free to connect with me for all things tech or just to say hello! Let's build something amazing together. 
+
+<img align="right" height="250" width="375" alt="Baby Yoda Grogu" src="https://media.giphy.com/media/krkrHAEodHgzP72rTI/giphy.gif" />
+
+### Talking about Personal Stuff:
+
+- 🛠 &nbsp; I'm currently working with **University Coursework and Python**
+- 🚀 &nbsp; I'm currently exploring **Agentic AI, MCP, and LLM applications**
+- 💬 &nbsp; Ask me about **JavaScript, Python, Full-Stack Development, or AI/ML**
+- 👾 &nbsp; Fun fact: **I'm a huge Star Wars fan** 
+- 📫 &nbsp; Reach me at: **duvvurisuryateja95@gmail.com**
+- 👨‍💻 &nbsp; Checkout my portfolio website: [Portfolio](suryatejaduvvuri.vercel.app/)
+- 📝 &nbsp; I write articles on [my blog](https://suryasblog.vercel.app/)
+
+### My Absolute Favorites:
+
+- 💻 &nbsp; I love exploring new tech and building cool projects
+- 📰 &nbsp; Reading & writing about tech, software architecture, and AI
+- 🎯 &nbsp; Problem-solving through code and learning new things by talking to others
+
+---
+
+### Languages and Tools:
+
+<p>
+  <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E.svg?logo=javascript&logoColor=black">
+  <img alt="TypeScript" src="https://img.shields.io/badge/TypeScript-007ACC.svg?logo=typescript&logoColor=white">
+  <img alt="Python" src="https://img.shields.io/badge/Python-14354C.svg?logo=python&logoColor=white">
+  <img alt="Java" src="https://img.shields.io/badge/Java-007396.svg?logo=java&logoColor=white">
+  <img alt="C++" src="https://img.shields.io/badge/C++-00599C.svg?logo=c%2B%2B&logoColor=white">
+  <img alt="Swift" src="https://img.shields.io/badge/Swift-FA7343.svg?logo=swift&logoColor=white">
+  <img alt="SQL" src="https://img.shields.io/badge/SQL-025E8C.svg?logo=postgresql&logoColor=white">
+  <img alt="React" src="https://img.shields.io/badge/React-20232a.svg?logo=react&logoColor=%2361DAFB">
+  <img alt="Next.js" src="https://img.shields.io/badge/Next.js-000000.svg?logo=nextdotjs&logoColor=white">
+  <img alt="Node.js" src="https://img.shields.io/badge/Node.js-43853D.svg?logo=node.js&logoColor=white">
+  <img alt="Django" src="https://img.shields.io/badge/Django-092E20.svg?logo=django&logoColor=white">
+  <img alt="Spring Boot" src="https://img.shields.io/badge/Spring_Boot-6DB33F.svg?logo=spring-boot&logoColor=white">
+  <img alt="PyTorch" src="https://img.shields.io/badge/PyTorch-EE4C2C.svg?logo=pytorch&logoColor=white">
+  <img alt="AWS" src="https://img.shields.io/badge/AWS-232F3E.svg?logo=amazon-aws&logoColor=white">
+  <img alt="Google Cloud" src="https://img.shields.io/badge/GCP-4285F4.svg?logo=google-cloud&logoColor=white">
+  <img alt="Docker" src="https://img.shields.io/badge/Docker-2496ED.svg?logo=docker&logoColor=white">
+  <img alt="PostgreSQL" src="https://img.shields.io/badge/PostgreSQL-316192.svg?logo=postgresql&logoColor=white">
+  <img alt="MongoDB" src="https://img.shields.io/badge/MongoDB-4ea94b.svg?logo=mongodb&logoColor=white">
+  <img alt="Git" src="https://img.shields.io/badge/Git-F05033.svg?logo=git&logoColor=white">
+  <img alt="VS Code" src="https://img.shields.io/badge/VS_Code-0078d7.svg?logo=visual-studio-code&logoColor=white">
+</p>
+
+---
+
+### GitHub Stats:
+
+<details open> 
+  <summary><h3>Streak Stats</h3></summary>
+
+  <p>
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=suryatejaduvvuri&theme=monokai-metallian&hide_border=true" alt="GitHub Streak"/>
+  </p>
+</details>
+
+<details open> 
+  <summary><h3>GitHub Profile Stats</h3></summary>
+
+  <p>
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=SuryatejaDuvvuri&show_icons=true&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&count_private=true&include_all_commits=true"/>
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SuryatejaDuvvuri&langs_count=8&layout=compact&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866"/>
+  </p>
+</details>
+
+<details> 
+  <summary><h3>Things I Use To Get Stuff Done</h3></summary>
+
+  <ul>
+    <li><b>OS:</b> macOS</li>
+    <li><b>Laptop: </b> MacBook</li>
+    <li><b>Browser: </b> Chrome</li>
+    <li><b>Terminal: </b> ZSH / Bash</li>
+    <li><b>Code Editor:</b> VSCode - The best editor out there</li>
+    <li><b>Other Tools:</b> Notion, GitHub</li>
+    <li><b>To Stay Updated:</b> Dev.to, Medium, Tech Twitter</li>
+  </ul>
+</details>
+
+---
+
+<div align="center">
+
+### Feel free to star some of the repositories!
+
+</div>
