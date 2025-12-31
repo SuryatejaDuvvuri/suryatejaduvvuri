@@ -38,6 +38,12 @@ Feel free to connect with me for all things tech or just to say hello! Let's bui
 - 👨‍💻 &nbsp; Checkout my portfolio website: [Portfolio](suryatejaduvvuri.vercel.app/)
 - 📝 &nbsp; I write articles on [my blog](https://suryasblog.vercel.app/)
 
+### Latest Blog Posts:
+- [2025: A Year of Learning, and Choosing Direction](https://suryasblog.vercel.app/posts/2025-a-year-of-learning-and-choosing-direction)
+- [Why I Built CodeTrack: A Platform for Students](https://suryasblog.vercel.app/posts/technical)
+- [6 Things I learned in Buildspace - Part 1](https://suryasblog.vercel.app/posts/6-things-i-learned-in-buildspace)
+- [6 Things I learned in BuildSpace - Part 2](https://suryasblog.vercel.app/posts/6-things-i-learned-in-buildspace-part-2)
+
 ### My Absolute Favorites:
 
 - 💻 &nbsp; I love exploring new tech and building cool projects
